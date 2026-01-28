@@ -29,7 +29,7 @@ This project builds an **interpretable machine learning pipeline** to estimate d
 ## Core Features
 
 ### 1. ROC-AUC Performance
-<img src="figures/roc_curve.png" width="400">
+<img src="figures/decision_curve.png" width="400">
 
 ---
 
@@ -44,7 +44,7 @@ This project builds an **interpretable machine learning pipeline** to estimate d
 ---
 
 ### 4. Clinical Utility: Decision Curve Analysis
-<img src="figures/decision_curve.png" width="400">
+<img src="figures/roc_curve.png" width="400">
 
 ---
 
