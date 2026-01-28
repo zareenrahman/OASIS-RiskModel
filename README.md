@@ -1,6 +1,6 @@
 # Explainable Alzheimer’s Risk Modeling with Uncertainty and Simulation
 
-This project builds an **interpretable machine learning pipeline** to estimate dementia risk using **clinical and demographic features** from the [OASIS-1 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/). It emphasizes **individual-level uncertainty**, **what-if simulation**, and **transparent model interpretation**, which can be utilized with modern standards in explainable healthcare AI.
+This project builds an **interpretable machine learning pipeline** to estimate dementia risk using **clinical and demographic features** from the [OASIS-1 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/). It emphasizes **individual-level uncertainty**, **what-if simulation**, and **transparent model interpretation**, which can be applied in line with modern standards for explainable healthcare AI.
 
 ---
 
@@ -34,29 +34,29 @@ This project builds an **interpretable machine learning pipeline** to estimate d
 ## Core Features
 
 ### 1. ROC-AUC Performance
-<img src="figures/roc_curve.png" width="500">
+<img src="figures/roc_curve.png" width="400">
 
 ---
 
 ### 2. Confusion Matrix (No Subject Leakage)
-<img src="figures/confusion_matrix.png" width="500">
+<img src="figures/confusion_matrix.png" width="400">
 
 ---
 
 ### 3. Probability Calibration
-<img src="figures/calibration_curve.png" width="500">
+<img src="figures/calibration_curve.png" width="400">
 
 ---
 
 ### 4. Clinical Utility: Decision Curve Analysis
-<img src="figures/decision_curve.png" width="500">
+<img src="figures/decision_curve.png" width="400">
 
 ---
 
 ### 5. Uncertainty-Aware Predictions
 Each subject’s risk is estimated as a **distribution** via bootstrapping.
 
-<img src="figures/bootstrap_uncertainty.png" width="500">
+<img src="figures/bootstrap_uncertainty.png" width="400">
 
 ---
 
