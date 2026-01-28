@@ -22,12 +22,7 @@ This project builds an **interpretable machine learning pipeline** to estimate d
 - **Source**: [OASIS-1: Cross-sectional MRI dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/)
 - **Subjects**: 416 individuals (aged 18–96), including non-demented and demented cases
 - **Data used**: Clinical/demographic spreadsheet only (not imaging)
-- **Key fields**:
-  - Age
-  - MMSE (cognitive test)
-  - Education (years)
-  - Sex
-  - Clinical Dementia Rating (CDR)
+- **Key fields**: Age, MMSE (cognitive test), Education (years), Sex, Clinical Dementia Rating (CDR)
 
 ---
 
