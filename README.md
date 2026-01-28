@@ -55,19 +55,22 @@ This project builds an **interpretable machine learning pipeline** to estimate d
 
 ### 5. Uncertainty-Aware Predictions
 Each subject’s risk is estimated as a **distribution** via bootstrapping.
+
 <img src="figures/bootstrap_uncertainty.png" width="500">
 
 ---
 
 ### 6. Digital Twin-Style What-If Simulation
 Simulates cognitive decline by reducing the MMSE score by 2 points and recomputing the risk.
-<img src="figures/virtual_intervention.png" width="500">
+
+<img src="figures/virtual_intervention.png" width="400">
 
 ---
 
 ### 7. Model Interpretability (Log-odds Coefficients)
 Features with the most impact on dementia risk.
-<img src="figures/logodds_coefficients.png" width="500">
+
+<img src="figures/logodds_coefficients.png" width="400">
 
 ---
 
