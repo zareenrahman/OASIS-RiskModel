@@ -1,6 +1,6 @@
 # Explainable Alzheimer’s Risk Modeling with Uncertainty and Simulation
 
-This project builds an **interpretable machine learning pipeline** to estimate dementia risk using **clinical and demographic features** from the [OASIS-1 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/). It emphasizes **individual-level uncertainty**, **what-if simulation**, and **transparent model interpretation**, which can be applied in line with modern standards for explainable healthcare AI.
+This project develops an **interpretable machine learning pipeline** to estimate **dementia risk using clinical and demographic features** from the [OASIS-1 dataset](https://sites.wustl.edu/oasisbrains/home/oasis-1/). It emphasizes **individual-level uncertainty**, **what-if simulation**, and **transparent model interpretation**, which can be applied in line with modern standards for explainable healthcare AI.
 
 ---
 
